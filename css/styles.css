@@ -325,45 +325,45 @@ footer .socialmedia .media {
 
 @media only screen and (max-width: 800px) {
   .booking-form {
-    max-width: 920px;
-    min-height: 500px;
+    width: 920px;
+    height: 500px;
     flex-direction: column;
   }
 
   .top {
-    max-width: 890px;
+    width: 890px;
     flex-direction: column;
   }
 
   .middle {
-    max-width: 400px;
+    width: 400px;
     flex-direction: column;
   }
 
   .chec {
-    max-width: 200px;
+    width: 200px;
     flex-direction: column;
   }
 
   .date {
-    max-width: 500px;
+    width: 500px;
     margin-right: 300px;
     margin-bottom: 10px;
   }
 
   .amount {
-    max-width: 50%;
+    width: 50%;
     flex-direction: column;
   }
 
   .mess {
-    max-width: 600px;
+    width: 600px;
     height: 190px;
     flex-direction: column;
   }
 
   .submit-button {
-    max-width: 600px;
+    width: 600px;
     height: 60px;
     margin-bottom: 50px;
   }
